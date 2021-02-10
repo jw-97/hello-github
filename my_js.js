@@ -10,4 +10,6 @@ function mul(a,b) {
 	return a*b;
 }
 
-.new function
+function div(a,b) {
+	return a/b;  //주석
+} 
