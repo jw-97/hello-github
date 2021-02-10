@@ -13,3 +13,4 @@ function mul(a,b) {
 function div(a,b) {
 	return a/b;  //주석
 } 
+
