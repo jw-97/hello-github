@@ -10,4 +10,4 @@ function mul(a,b) {
 	return a*b;
 }
 
-.commit
+.new function
